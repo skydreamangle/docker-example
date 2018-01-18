@@ -1,6 +1,6 @@
 FROM alpine:3.6
 
-MAINTAINER shuying <shuying@movarkstyle.com>
+MAINTAINER skydreamangle <sofia.lin819@gmail.com>
 
 RUN apk update && apk add openrc --no-cache
 

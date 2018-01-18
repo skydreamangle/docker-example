@@ -27,7 +27,7 @@ services:
             - admindb
             - redis
         container_name: web
-        image: movark/nginx-php7-example
+        image: nginx-php7-example
         volumes:
             - "$(pwd):/var/www/app"
         ports:

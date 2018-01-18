@@ -1,5 +1,5 @@
 CONTAINER = nginx-php7-example
-IMAGE = movark/nginx-php7-example
+IMAGE = nginx-php7-example
 TAG = latest
 
 image:

@@ -8,4 +8,3 @@ This image contains:
 - PHP7 with most common extensions
 - S6 (process supervisor)
 - Composer
-i
